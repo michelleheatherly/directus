@@ -28,6 +28,9 @@
 		"test": "vitest --watch=false",
 		"typecheck": "vue-tsc --noEmit"
 	},
+	"dependencies": {
+		"crypto-js": "^4.1.1"
+	},
 	"devDependencies": {
 		"@babel/core": "7.21.8",
 		"@babel/preset-env": "7.21.5",
