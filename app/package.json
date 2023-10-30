@@ -155,8 +155,5 @@
 		"vuedraggable": "4.1.0",
 		"webpack": "5.83.1",
 		"wellknown": "0.5.0"
-	},
-	"dependencies": {
-		"crypto-js": "^4.1.1"
 	}
 }
